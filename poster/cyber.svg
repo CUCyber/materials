@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3840"
-   height="2160"
+   width="4096"
+   height="2304"
    viewBox="0 0 3840 2160"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="cyber.svg"
    inkscape:export-filename="/home/foster/src/cucyber/materials/poster/cyber.png"
    inkscape:export-xdpi="300"
@@ -84,7 +84,7 @@
          width="260" />
     </pattern>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter10237">
       <feFlood
@@ -116,7 +116,7 @@
          id="feComposite10247" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter4432">
       <feFlood
@@ -175,7 +175,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -202,118 +202,114 @@
        style="filter:url(#filter4432)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:45px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1714.2856"
        y="-330.49503"
-       id="text4226"
-       sodipodi:linespacing="125%"><tspan
+       id="text4226"><tspan
          sodipodi:role="line"
          id="tspan4228"
          x="1714.2856"
          y="-330.49503"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;">We are a student run organization dedicated to</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1">We are a student run organization dedicated to</tspan><tspan
          sodipodi:role="line"
          x="1714.2856"
          y="-236.74503"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1"
          id="tspan4244">all things cyber security. We prepare teams to</tspan><tspan
          sodipodi:role="line"
          x="1714.2856"
          y="-142.99503"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1"
          id="tspan4246">compete in cyber security related competitions</tspan><tspan
          sodipodi:role="line"
          x="1714.2856"
          y="-49.245026"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1"
          id="tspan4248">and run weekly seminars for students of all</tspan><tspan
          sodipodi:role="line"
          x="1714.2856"
          y="44.504974"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1"
          id="tspan4250">disciplines and levels. Are you interested in the</tspan><tspan
          sodipodi:role="line"
          x="1714.2856"
          y="138.25497"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1"
          id="tspan4252">rapidly growing field of cyber security?</tspan><tspan
          sodipodi:role="line"
          x="1714.2856"
          y="232.00497"
          id="tspan4230"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1"> </tspan><tspan
          sodipodi:role="line"
          x="1714.2856"
          y="325.75497"
          id="tspan4232"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;">Join us weekly at the Watt Family Innovation</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1">Join us weekly at the Watt Family Innovation</tspan><tspan
          sodipodi:role="line"
          x="1714.2856"
          y="419.50497"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1"
          id="tspan4276">Center in room 316 every Thursday at 7:00pm!</tspan><tspan
          sodipodi:role="line"
          x="1714.2856"
          y="513.255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1"
          id="tspan4278">Send us an email to get added to our mailing list!</tspan><tspan
          sodipodi:role="line"
          x="1714.2856"
          y="607.005"
          id="tspan4234"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1;" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#dddddd;fill-opacity:1"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:45px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2570.9119"
        y="-679.06647"
-       id="text4236"
-       sodipodi:linespacing="125%"><tspan
+       id="text4236"><tspan
          sodipodi:role="line"
          id="tspan4238"
          x="2570.9119"
          y="-679.06647"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Medium';text-align:center;text-anchor:middle;fill:#dddddd;fill-opacity:1;">Clemson's Cyber</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Medium';text-align:center;text-anchor:middle;fill:#dddddd;fill-opacity:1">Clemson's Cyber</tspan><tspan
          sodipodi:role="line"
          x="2570.9119"
-         y="-491.56644"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;font-family:Orbitron;-inkscape-font-specification:'Orbitron Medium';text-align:center;text-anchor:middle;fill:#dddddd;fill-opacity:1;"
+         y="-491.56647"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:150px;line-height:1.25;font-family:Orbitron;-inkscape-font-specification:'Orbitron Medium';text-align:center;text-anchor:middle;fill:#dddddd;fill-opacity:1"
          id="tspan4240">Security Gateway</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:45px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="3480"
        y="75.219154"
-       id="text4254"
-       sodipodi:linespacing="125%"><tspan
+       id="text4254"><tspan
          sodipodi:role="line"
          id="tspan4256"
          x="3480"
-         y="75.219154" /></text>
+         y="75.219154"
+         style="font-size:45px;line-height:1.25"> </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:45px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2627.0098"
        y="649.50507"
-       id="text4288"
-       sodipodi:linespacing="125%"><tspan
+       id="text4288"><tspan
          sodipodi:role="line"
          id="tspan4290"
          x="2627.0098"
          y="649.50507"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.25px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#dddddd;fill-opacity:1;">Website: https://cucyber.net/                        Email: cyber@clemson.edu</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.25px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;text-anchor:middle;fill:#dddddd;fill-opacity:1">Website: https://cucyber.net/                        Email: cyber@clemson.edu</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:45px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="82.689453"
        y="920.93353"
-       id="text10091"
-       sodipodi:linespacing="125%"><tspan
+       id="text10091"><tspan
          sodipodi:role="line"
          id="tspan10093"
          x="82.689453"
          y="920.93353"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:Terminus;-inkscape-font-specification:Terminus;fill:#dddddd;fill-opacity:1">cyber@clemson.edu <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:1.25;font-family:Terminus;-inkscape-font-specification:Terminus;fill:#dddddd;fill-opacity:1">cyber@clemson.edu <tspan
    style="fill:#006600;fill-opacity:1"
    id="tspan10263">~</tspan>&gt; <tspan
    style="fill:#3e56d7;fill-opacity:1"
@@ -321,13 +317,12 @@
    style="fill:#517bd1;fill-opacity:1"
    id="tspan10411"> -A -T4 10.13.37.1</tspan>█</tspan></text>
     <text
-       sodipodi:linespacing="125%"
        id="text4194"
        y="-959.06647"
        x="82.689453"
-       style="font-style:normal;font-weight:normal;font-size:45px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:Terminus;-inkscape-font-specification:Terminus;fill:#dddddd;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:1.25;font-family:Terminus;-inkscape-font-specification:Terminus;fill:#dddddd;fill-opacity:1"
          y="-959.06647"
          x="82.689453"
          id="tspan4196"
